@@ -1,9 +1,9 @@
 """
-Bi là một nhà toán học trẻ, rất nổi tiếng ở IT. Thật không may, Lema không nghĩ như vậy. Để khiến Lema thay đổi ý định, Bi sẵn sàng giải bất kỳ bài toán nào. Sau một hồi suy nghĩ, Lema yêu cầu Roma tìm xem có bao nhiêu số "số n, modulo m".
-+ Nó có thể nhận được bằng cách sắp xếp lại các chữ số của số n.
-+ Nó không có bất kỳ số 0 nào đứng đầu.
-+ Số còn lại sau khi chia số x cho m bằng 0.
-Hãy giúp Bi giải quyết bài toán
+Số x được coi là "số n, modulo m" nếu:
+    + Nó có thể nhận được bằng cách sắp xếp lại các chữ số của số n.
+    + Nó không có bất kỳ số 0 nào đứng đầu.
+    + Số còn lại sau khi chia số x cho m bằng 0.
+Hãy đếm số lượng số x
 """
 import itertools
 n, m = [int(i) for i in input().split()]
