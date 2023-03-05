@@ -5,6 +5,7 @@ Số x được coi là "số n, modulo m" nếu:
     + Số còn lại sau khi chia số x cho m bằng 0.
 Hãy đếm số lượng số x
 """
+
 import itertools
 n, m = [int(i) for i in input().split()]
 count = 0
