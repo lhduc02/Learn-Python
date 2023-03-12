@@ -33,7 +33,7 @@ Random:
 		if x==50:
 			break
 print("End")
-# Bài toán trên in ngẫu nhiên các số từ [-100] đến [99] cho đến khi gặp [50] thì dừng
+""" Bài toán trên in ngẫu nhiên các số từ [-100] đến [99] cho đến khi gặp [50] thì dừng """
 ___________________ 04 ___________________
 
 KEYWORD key = function	-> Sắp xếp theo function
