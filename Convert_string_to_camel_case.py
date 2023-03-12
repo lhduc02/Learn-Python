@@ -7,6 +7,7 @@ Examples:
       "The_Stealth-Warrior" gets converted to "TheStealthWarrior"
 """
 
+#Function
 def to_camel_case(text):
     t = []
     i = 0
@@ -18,4 +19,3 @@ def to_camel_case(text):
             t.append(text[i])
             i+=1
     return "".join(t)
-  
