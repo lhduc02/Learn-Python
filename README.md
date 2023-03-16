@@ -1,5 +1,6 @@
-# Python_Exercises
-This is my Python exercises
+# Learn-Python
+
+This is where my Python exercises and notes are stored
 
 #Zen of Python
 
